@@ -3,7 +3,7 @@ name: Demo Workflow
 on:      #trigger
   push:
     branches:
-      - main
+      - master
   pull_request:
     branches:
       - main
